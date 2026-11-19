@@ -1,0 +1,7 @@
+config.json
+ponte/
+build/
+dist/
+*.spec
+*.exe
+__pycache__/
